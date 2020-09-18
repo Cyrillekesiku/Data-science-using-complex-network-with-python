@@ -1,1 +1,2 @@
 # Data-science-using-complex-network-with-python
+In this work we will perform some basic calculations and the exploration and analysis of a complex network. The world we live in is composed of objects. To a certain extent we can study the link between objects of the same or different nature based on a given phenomenon. The analysis of a complex network makes it possible to study the behaviour of objects, their interaction or not and other measures that can lead to a better conclusion for the right decision, which is the main interest of this field.
